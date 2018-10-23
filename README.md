@@ -1,0 +1,3 @@
+# adamsiwy.github.io
+Der since1999-Podcast ist ein Konzeptioneller Gedankenschweif durch die Digitalisierung. Es geht um die vielfälltigen Perspektiven der Digitalisierung, die seit Mitte der '90er Einzug in unseren Alltag fanden. Die einzelnen Episoden durchleuchten 'laut denkend' in Monlogen und manchmal in Fachdialogen verschiedenste Ideen und Konezpte. Das Besondere: jede Episode entsteht bei einer Autobahnfahrt, bei der die Assistenzsysteme das Fahren übernehmen und der Autor Adam sich auf eine 20-40 Minütige Gedankenreise bewegen kann.
+Dieses GIT Repo Bündelt die Landingpage podcast.since1999.de, die direkt von github pages deployed wird.
